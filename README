@@ -1,0 +1,15 @@
+DoDefuse by patapancakes
+
+Usage Instructions: 
+1. Drag Doukutsu.exe onto DoDefuse.exe
+2. Run Doukutsu.exe
+3. Don't eat the red flowers (optional)
+
+Build Instructions:
+1. Download and install Go https://go.dev/dl
+2. Open command line and run "go build"
+
+Have fun!
+
+Special Thanks:
+aquadoesstuff - DoDefuse icon
